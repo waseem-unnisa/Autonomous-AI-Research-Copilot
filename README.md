@@ -163,7 +163,7 @@ autonomous-ai-research-copilot/
 
 ## 🌐 Live Demo
 
-*(Deployment coming soon)*
+https://autonomous-ai-research-copilot-wylhtkas3shrfnbl3j5oqm.streamlit.app/
 
 ---
 
