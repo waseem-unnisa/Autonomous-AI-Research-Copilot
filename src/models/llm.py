@@ -4,7 +4,7 @@ from src.utils.config import GROQ_API_KEY
 
 llm = ChatGroq(
     api_key=GROQ_API_KEY,
-    model="llama-3.3-70b-versatile",
+    model="llama-3.1-8b-instant",
     temperature=0,
 ) 
 
