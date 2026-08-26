@@ -8,6 +8,3 @@ llm = ChatGroq(
     temperature=0,
 ) 
 
-response = llm.invoke("Whhat is the capital of The United Kingdom?")
-
-print(response.content)
